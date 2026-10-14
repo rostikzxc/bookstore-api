@@ -1,0 +1,10 @@
+.git
+.gitignore
+**/__pycache__
+.ruff_cache
+.env
+.env.example
+*.md
+LICENSE
+requirements-dev.txt
+pyproject.toml
